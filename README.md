@@ -2,7 +2,7 @@
 
 This Password Generator creates a password the way you want it!  
 You can see this code in action here:
-https://slspencer.github.com/friendly-parakeet/index.html
+https://slspencer.github.io/friendly-parakeet/index.html
 
 ## How it works:  
 
